@@ -1,2 +1,1 @@
-# SiteCone
-go
+# SiteConego
